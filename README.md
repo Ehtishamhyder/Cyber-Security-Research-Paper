@@ -3,7 +3,7 @@
 ##  Overview  
 This research paper focuses on cybersecurity awareness among students and individuals in society. It highlights common cyber threats such as phishing, hacking, identity theft, cyberbullying, and financial fraud. The research also explains real-life examples, prevention techniques, and the importance of digital responsibility in the modern world. 
 
-# Reesearch Paper Available at: https://bit.ly/4aQ3PRH
+# Click the link to view Research Paper: https://bit.ly/4aQ3PRH
 
 ## Practical Implementation:
 
